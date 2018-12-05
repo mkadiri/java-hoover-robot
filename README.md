@@ -21,7 +21,7 @@ and requires a body such as the following
 ```
 {
   "roomSize" : [5, 5],
-  "coords" : [-1, 2],
+  "coords" : [1, 2],
   "patches" : [
     [1, 0],
     [2, 2],
