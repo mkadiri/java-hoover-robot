@@ -5,6 +5,7 @@ Docker installed and configured
 
 This has only been tested on linux
 
+- `git clone https://github.com/mkadiri/java-hoover-robot.git` - clone repo to a directory of your choice and cd in to it
 - `bash build.sh` - creates the necessary docker images
 - `docker-compose up -d` - starts the containers
 - `docker logs -f mkadiri-java-microservice` - shows container logs (optional)
